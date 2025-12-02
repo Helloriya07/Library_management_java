@@ -1,6 +1,7 @@
 # 📚 Library Management System –  Java Project
 A simple menu - driven library management project using java.
-🚀 Features
+
+#🚀 Features
 1. Add a New Book
 Allows the user to add a book with details like ID, title, author, category, published year, and issued status.
 
@@ -24,14 +25,14 @@ Prints only the books that are currently issued.
 
 🛠️ Tech Stack
 
-Java 8+
-OOP Concepts 
-Collections Framework
-List, ArrayList
-Java Streams API
-Filtering, mapping, searching
-Loops & Control Statements
-for, while, switch
+* Java 8+
+* OOP Concepts 
+* Collections Framework
+* List, ArrayList
+* Java Streams API
+* Filtering, mapping, searching
+* Loops & Control Statements
+* for, while, switch
 
 #Project Structure
 ```
