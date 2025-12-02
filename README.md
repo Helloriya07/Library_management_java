@@ -34,6 +34,7 @@ Loops & Control Statements
 for, while, switch
 
 #Project Structure
+```
 src/
 │
 ├── Book.java
@@ -51,7 +52,7 @@ src/
 │
 └── Main.java
     → Menu-driven logic using switch-case
-
+```
 
 9. Menu-Driven Interaction
 
